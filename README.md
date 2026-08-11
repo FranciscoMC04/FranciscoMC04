@@ -1,4 +1,4 @@
-# 👋 Hola, soy Francisco Giancarlos
+# 👋Hola, soy Francisco Giancarlos
 
 ### 🚀 Systems Engineering Student | Backend & Full-Stack Developer
 
@@ -11,24 +11,6 @@ Actualmente enfoco mi formación en el desarrollo **Backend y Full-Stack**, trab
 
 ---
 
-## 🧑‍💻 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería de Sistemas**
-- 💻 Enfocado en **Backend & Full-Stack Development**
-- 🚀 Desarrollo de APIs y aplicaciones web
-- 🏗️ Interesado en **Arquitectura de Software y Diseño de Sistemas**
-- 🧠 Aplicando principios **SOLID** y **Patrones de Diseño**
-- 🔷 Conocimientos en **Arquitectura Hexagonal**
-- 🗄️ Conocimientos en **Bases de Datos**
-- 🔐 Desarrollo de APIs con **Laravel**
-- 🌐 Desarrollo de APIs con **Node.js + Express**
-- 🎨 Interfaces web con **Vue.js + Tailwind CSS**
-- 🔧 Control de versiones con **Git & GitHub**
-- 📚 Certificación y formación especializada en **Laravel - EDteam**
-
----
-
-## ⚙️ Tech Stack
 
 ### Backend
 
@@ -66,66 +48,4 @@ Actualmente enfoco mi formación en el desarrollo **Backend y Full-Stack**, trab
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
 
-## 🏗️ Software Engineering
-
-Una de las áreas que más me interesa es escribir software que pueda **crecer sin convertirse en difícil de mantener**.
-
-### Principles & Practices
-
-- **SOLID**
-- Clean Code
-- Separation of Concerns
-- Dependency Injection
-- DRY
-- Reusable Components
-- API Design
-- RESTful APIs
-
-### Design Patterns
-
-Tengo conocimientos en **Patrones de Diseño**, buscando aplicarlos cuando realmente aportan valor a la solución y al mantenimiento del sistema.
-
-### Architecture
-
-- **Arquitectura Hexagonal**
-- Separación de dominio, aplicación e infraestructura
-- Dependency Inversion
-- Diseño orientado a mantenibilidad y escalabilidad
-
----
-
-## 🗄️ Database
-
-Tengo conocimientos en diseño y gestión de bases de datos, incluyendo:
-
-- Modelado de datos
-- Normalización
-- Relaciones entre entidades
-- Claves primarias y foráneas
-- Consultas SQL
-- Diseño a partir de requerimientos
-- Integridad de datos
-- Optimización de consultas
-- Backups
-- MySQL
-
----
-
-## 🚀 What I'm Building
-
-Actualmente estoy fortaleciendo mi perfil mediante proyectos donde puedo aplicar conjuntamente:
-
-```text
-Requirements
-     ↓
-Database Design
-     ↓
-Architecture
-     ↓
-Backend / API
-     ↓
-Frontend
-     ↓
-Testing & Improvement
