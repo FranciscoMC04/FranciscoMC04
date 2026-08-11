@@ -1,6 +1,5 @@
-# 👋Hola, soy Francisco Giancarlos
+# Hola, soy Francisco Giancarlos
 
-### 🚀 Systems Engineering Student | Backend & Full-Stack Developer
 
 Soy estudiante de **Ingeniería de Sistemas**, apasionado por el desarrollo de software y la construcción de aplicaciones escalables, mantenibles y bien estructuradas.
 
