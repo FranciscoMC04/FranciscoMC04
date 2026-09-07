@@ -1,9 +1,9 @@
 # Hola, soy Francisco Giancarlos
 
 
-Soy estudiante de **Ingeniería de Sistemas**, apasionado por el desarrollo de software y la construcción de aplicaciones escalables, mantenibles y bien estructuradas.
+Soy desarrollor de software, con un enfoque en la construcción de aplicaciones escalables, mantenibles y bien estructuradas.
 
-Actualmente enfoco mi formación en el desarrollo **Backend y Full-Stack**, trabajando principalmente con **Laravel, Node.js, Vue.js y Bases de Datos**, mientras profundizo en principios de diseño y arquitectura de software.
+Actualmente  mi formación en el desarrollo **Backend y Full-Stack**, trabajando principalmente con **Laravel, Node.js, Vue.js y Bases de Datos**, mientras profundizo en principios de diseño y arquitectura de software.
 
 > 💡 No solo busco que el código funcione.  
 > Busco entender cómo diseñarlo, estructurarlo y hacerlo sostenible.
